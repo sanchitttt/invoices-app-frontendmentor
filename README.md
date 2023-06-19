@@ -1,3 +1,5 @@
+![image](https://github.com/sanchitttt/invoices-app-frontendmentor/assets/46245135/e2c3f0bb-1896-436e-96c8-9f5fe4a429d6)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
